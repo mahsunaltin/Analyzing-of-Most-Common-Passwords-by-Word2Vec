@@ -1,5 +1,7 @@
 Download the file below link:
-
 'https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt'
 
-Note: Vectors of most known passwords file are already uploaded as file.
+
+Note: If you do not waste your time with getting vectors of the known passwords, Vectors of most known passwords file are already uploaded as file.
+It can be downloaded from the link below: 
+'https://drive.google.com/file/d/1-1_0A1JA3HhEi74lmv9sPTwI-Ghxg6Jg/view?usp=sharing'
